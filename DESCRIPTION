@@ -1,4 +1,4 @@
-Package: RollingWindow
+Package: RollingWindowms
 Type: Package
 Title: Calculates single-pass rolling and expanding window statistics
 Version: 0.2
